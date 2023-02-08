@@ -67,11 +67,6 @@
 
         </div>
         <div class="mb-3">
-            <label for="" class="form-label">NIM</label>
-            <input type="text" class="form-control" id="nim" name="nim">
-
-        </div>
-        <div class="mb-3">
             <label for="" class="form-label">Alamat</label>
             <input type="text" class="form-control" id="alamat" name="alamat">
 
